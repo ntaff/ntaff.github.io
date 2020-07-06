@@ -51,7 +51,7 @@ Awards and Reports
 Projects
 --------
 
-- See **Projets**, or my github account.
+- See **Projects**, or my github account.
 
 
 # Contact
