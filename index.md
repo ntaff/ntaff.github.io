@@ -5,8 +5,8 @@
 ## Nicolas Taffoureau
 ======
 
-#### Infosec enthusiast with a strong background in programming and maths. 
-###### [ [ntaff.github.io](http://ntaff.github.io) ] . [ ntaff@tutanota.com ] . [ Send me a mail if you need my phone number ]
+### Infosec enthusiast with a strong background in programming and maths. 
+ [![Portfolio](https://img.shields.io/badge/Portfolio-ntaff.github.io-brightgreen.svg)](https://ntaff.github.io) . ![Mail](https://img.shields.io/badge/Contact-ntaff%40tutanota.com-red.svg) . ![Phone](https://img.shields.io/badge/Phone-Send%20me%20a%20mail%20if%20you%20need%20my%20phone%20number-lightgrey.svg)
 
 
 Education
