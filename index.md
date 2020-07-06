@@ -1,19 +1,21 @@
 # Projects
 
+-------- UNDER CONSTRUCTION --------
+
 # Resume
 
 ## Nicolas Taffoureau
 ===================
 
 ### Infosec enthusiast with a strong background in programming and maths. 
- :briefcase: [![Portfolio](https://img.shields.io/badge/Portfolio-ntaff.github.io-brightgreen.svg)](https://ntaff.github.io) 
+ [![Portfolio](https://img.shields.io/badge/Portfolio-ntaff.github.io-brightgreen.svg)](https://ntaff.github.io) 
  
- :e-mail: ![Mail](https://img.shields.io/badge/Contact-ntaff%40tutanota.com-red.svg) 
+ ![Mail](https://img.shields.io/badge/Contact-ntaff%40tutanota.com-red.svg) 
  
- :telephone_receiver: ![Phone](https://img.shields.io/badge/Phone-Send%20me%20a%20mail%20if%20you%20need%20my%20phone%20number-lightgrey.svg)
+ ![Phone](https://img.shields.io/badge/Phone-Send%20me%20a%20mail%20if%20you%20need%20my%20phone%20number-lightgrey.svg)
 
 
-Education :man_student:
+Education
 ---------
 **Cybersecurity MSc, Sorbonne University** (2019 - 2021)
 
@@ -29,7 +31,7 @@ Education :man_student:
 
 - Last semester studies at Université du Québec à Chicoutimi (UQAC) in Canada
 
-Experience :technologist:
+Experience
 ---------
 **Cybercrime Engineer, Direction Centrale de la Police Judiciaire (Apprenticeship)** (2019 - present, Nanterre, France)
 
@@ -40,19 +42,19 @@ Experience :technologist:
 
 - Develoment of BeepBeep, a runtime monitor for Java programs.
 
-Skills :computer:
+Skills
 ------
 **Programming:** Python, C/C++, SQL, Ocaml, x86 ASM
 
 **Tools:** Sysinternals, Wireshark, Git, Autopsy, X-Ways
 
-Awards and Reports :trophy:
+Awards and Reports
 ------
-- **Photography of the year**, Paris-Sud University (2018). Awarded to 1 out of 100+ photographies. :earth_americas:
-- **TV Report**, On TF1 News, the most viewed french TV program (November 2019). Urban Exploration and Photography. :tv:
-- **TV Report**, On France 3 News, the third most viewed french TV channel (September 2019). Urban Exploration and Photography. :tv:
+- **Photography of the year**, Paris-Sud University (2018). Awarded to 1 out of 100+ photographies.
+- **TV Report**, On TF1 News, the most viewed french TV program (November 2019). Urban Exploration and Photography.
+- **TV Report**, On France 3 News, the third most viewed french TV channel (September 2019). Urban Exploration and Photography.
 
-Projects :art:
+Projects
 --------
 
 - See **Projects**, or my github account.
