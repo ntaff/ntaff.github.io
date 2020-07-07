@@ -46,7 +46,7 @@ Skills
 ------
 **Programming:** Python, C/C++, SQL, Ocaml, x86 ASM
 
-**Tools:** Sysinternals, Wireshark, Git, Autopsy, X-Ways
+**Tools:** Sysinternals, Wireshark, Git, MISP, Autopsy, X-Ways
 
 Awards and Reports
 ------
