@@ -2,6 +2,12 @@
 
 -------- UNDER CONSTRUCTION --------
 
+| Name | Language | Description
+| ------ | ----------- | ----------- |
+| Uglix        | Python    | Scripts for UGLIX challenges, part of cryptography course at Sorbonne University (I was ranked 3 out of 75) |
+| RuzzleSolver | Caml      | Ruzzle solver in Caml, developped with 100% fonctionnal-oriented functions |
+| QuickMaths   | Multiples | Solve basics maths problems in differents languages such as Python, Elixir, Caml... This repo include PyGraph librairy.
+
 # Resume
 
 ## Nicolas Taffoureau
@@ -12,7 +18,7 @@
  
  ![Mail](https://img.shields.io/badge/Contact-ntaff%40tutanota.com-red.svg) 
  
- ![Phone](https://img.shields.io/badge/Phone-Send%20me%20a%20mail%20if%20you%20need%20my%20phone%20number-lightgrey.svg)
+ ![Phone](https://img.shields.io/badge/Phone-Available%20on%20demand-lightgrey.svg)
 
 
 Education
@@ -44,9 +50,9 @@ Experience
 
 Skills
 ------
-**Programming:** Python, C/C++, SQL, Ocaml, x86 ASM
+**Programming:** Python, C/C++, SQL, Ocaml, x86 ASM, Java
 
-**Tools:** Sysinternals, Wireshark, Git, MISP, Autopsy, X-Ways
+**Tools:** Sysinternals, Wireshark, Git, MISP, Autopsy, X-Ways, OSForensics
 
 Awards and Reports
 ------
@@ -57,14 +63,14 @@ Awards and Reports
 Projects
 --------
 
-- See **Projects**, or my github account.
+- See **Projects** section, or my github account.
 
 
 # Contact
 
 [LinkedIn](https://www.linkedin.com/in/nicolas-taffoureau-66a717109/)
 
-[Twitter](https://twitter.com/0xntaff)
+[Twitter](https://twitter.com/_ntaff)
 
 Contact  : `ntaff@tutanota.com`
 
