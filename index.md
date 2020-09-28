@@ -6,7 +6,7 @@
 | ------ | ----------- | ----------- |
 | Uglix        | Python    | Scripts for UGLIX challenges, part of cryptography course at Sorbonne University (I was ranked 3 out of 75) |
 | RuzzleSolver | Caml      | Ruzzle solver in Caml, developped with 100% fonctionnal-oriented functions |
-| QuickMaths   | Multiples | Solve basics maths problems in differents languages such as Python, Elixir, Caml... This repo include PyGraph librairy.
+| QuickMaths   | Multiples | Solve basics maths problems in differents languages such as Python, Elixir, Caml... This repo also include PyGraph librairy.
 
 # Resume
 
